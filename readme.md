@@ -15,19 +15,25 @@ View the example at: [portfolio.micdijkstra.com](http://portfolio.micdijkstra.co
 * HTML5 offline storage can not be over 5mb
 
 
+## Demo
+
+View the live demo at: [portfolio.micdijkstra.com](http://portfolio.micdijkstra.com "HTML5 Offline Portfolio Web App")
+
+[HTML5 Offline Portfolio Web App iPhone and iPad Screenshots](http://portfolio.micdijkstra.com/_/img/screenshot.png "HTML5 Offline Portfolio Web App iPhone and iPad Screenshots")
+
 ## Usage
 
 1. Update page title and meta content
 2. Update favicon.ico
 3. Update apple-touch-icon.png
 4. Update HTML code for thumbnails and images (see [jquery mobile docs](http://jquerymobile.com/demos/1.0b1/#/demos/1.0b1/ "jquery mobile docs"))
-5. Add all new files to main.manifest (see below)
+5. Add all new file urls to main.manifest (see below)
 6. Publish to a live server
 7. Browse to your site on your iPhone or iPad
 8. Save on your iPad by clicking 'Add to Home Screen'
 
 
-## main.manifest
+## Manifest
 
 ### File
 
@@ -53,3 +59,4 @@ The manifest file must be served with type text/cache-manifest so if you are hos
 * jQuery mobile - [http://jquerymobile.com/](http://jquerymobile.com/)
 * HTML5 Reset - [http://html5reset.org/](http://html5reset.org/)
 * Ethan Marcotte's Responsive Web Design - [http://www.alistapart.com/articles/responsive-web-design/](http://www.alistapart.com/articles/responsive-web-design/)
+
