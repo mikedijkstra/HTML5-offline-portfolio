@@ -32,6 +32,7 @@ View the example at: [portfolio.micdijkstra.com](http://portfolio.micdijkstra.co
 ### File
 
 The manifest file specifies the resources—such as HTML, JavaScript, CSS, and image files —to downloaded and store in the application cache. It's important to remember:
+
 * The first line must contain the text CACHE MANIFEST
 * The URLs are file paths to resources you want to download and cache locally
 * All files must be referenced in the main.manifest file
