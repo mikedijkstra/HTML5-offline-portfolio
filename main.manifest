@@ -1,0 +1,25 @@
+CACHE MANIFEST
+
+#Page
+/index.html
+
+#Style
+/_/css/style.css
+
+#Javascript
+/_/js/jquery-1.6.1.min.js
+/_/js/jquery.mobile-1.0b1.min.js
+/_/js/functions.js
+
+#Images
+/_/img/block.png
+/_/img/image.png
+/_/img/ajax-loader.png
+/_/img/icon-search-black.png
+/_/img/icons-18-black.png
+/_/img/icons-18-white.png
+/_/img/icons-36-black.png
+/_/img/icons-36-white.png
+
+
+#v1
