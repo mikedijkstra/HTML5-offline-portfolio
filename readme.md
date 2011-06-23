@@ -1,6 +1,6 @@
 # HTML5 Offline Portfolio Web App
 
-Easily create an offline HTML5 portfolio to take to job interviews or to show to prospective clients.
+Easily create an offline HTML5 portfolio on your iPad or iPhone to take to job interviews or to show to prospective clients.
 
 View the example at: [portfolio.micdijkstra.com][http://portfolio.micdijkstra.com]
 
@@ -12,6 +12,7 @@ View the example at: [portfolio.micdijkstra.com][http://portfolio.micdijkstra.co
 * Flip transition to portfolio pages and back to home page
 * Swipe left and right through portfolio pages
 * Custom portfolio pages
+* HTML5 offline storage can not be over 5mb
 
 
 ## Usage
@@ -21,7 +22,9 @@ View the example at: [portfolio.micdijkstra.com][http://portfolio.micdijkstra.co
 3. Update apple-touch-icon.png
 4. Update HTML code for thumbnails and images (see [jquery mobile docs][http://jquerymobile.com/demos/1.0b1/#/demos/1.0b1/])
 5. Add all new files to main.manifest (see below)
-6. Publish
+6. Publish to a live server
+7. Browse to your site on your iPhone or iPad
+8. Save on your iPad by clicking 'Add to Home Screen'
 
 
 ## main.manifest
