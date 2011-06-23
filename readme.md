@@ -48,7 +48,7 @@ The manifest file must be served with type text/cache-manifest so if you are hos
 
 ## Thanks to
 
-jQuery - [http://jquery.com/](http://jquery.com/)
-jQuery mobile - [http://jquerymobile.com/](http://jquerymobile.com/)
-HTML5 Reset - [http://html5reset.org/](http://html5reset.org/)
-Ethan Marcotte's Responsive Web Design - [http://www.alistapart.com/articles/responsive-web-design/](http://www.alistapart.com/articles/responsive-web-design/)
+* jQuery - [http://jquery.com/](http://jquery.com/)
+* jQuery mobile - [http://jquerymobile.com/](http://jquerymobile.com/)
+* HTML5 Reset - [http://html5reset.org/](http://html5reset.org/)
+* Ethan Marcotte's Responsive Web Design - [http://www.alistapart.com/articles/responsive-web-design/](http://www.alistapart.com/articles/responsive-web-design/)
