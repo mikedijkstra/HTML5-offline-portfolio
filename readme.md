@@ -2,7 +2,7 @@
 
 Easily create an offline HTML5 portfolio on your iPad or iPhone to take to job interviews or to show to prospective clients.
 
-View the example at: [portfolio.micdijkstra.com][http://portfolio.micdijkstra.com]
+View the example at: [portfolio.micdijkstra.com](http://portfolio.micdijkstra.com "HTML5 Offline Portfolio Web App")
 
 ## Features
 
