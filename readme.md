@@ -20,7 +20,7 @@ View the example at: [portfolio.micdijkstra.com][http://portfolio.micdijkstra.co
 1. Update page title and meta content
 2. Update favicon.ico
 3. Update apple-touch-icon.png
-4. Update HTML code for thumbnails and images (see [jquery mobile docs][http://jquerymobile.com/demos/1.0b1/#/demos/1.0b1/])
+4. Update HTML code for thumbnails and images (see [jquery mobile docs](http://jquerymobile.com/demos/1.0b1/#/demos/1.0b1/ "jquery mobile docs"))
 5. Add all new files to main.manifest (see below)
 6. Publish to a live server
 7. Browse to your site on your iPhone or iPad
@@ -36,7 +36,7 @@ The manifest file specifies the resources—such as HTML, JavaScript, CSS, and i
 * The URLs are file paths to resources you want to download and cache locally
 * All files must be referenced in the main.manifest file
 * Any incorrect references will cause the offline storage to silently fail (be prepared to pull your hair out)
-* You can find out more at [HTML 5 Offline Application Cache][http://developer.apple.com/library/safari/#documentation/iPhone/Conceptual/SafariJSDatabaseGuide/OfflineApplicationCache/OfflineApplicationCache.html]
+* You can find out more at [HTML 5 Offline Application Cache](http://developer.apple.com/library/safari/#documentation/iPhone/Conceptual/SafariJSDatabaseGuide/OfflineApplicationCache/OfflineApplicationCache.html "HTML5 Offline Application")
 
 ### Serving
 
